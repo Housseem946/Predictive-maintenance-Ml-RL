@@ -43,7 +43,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/predictive-maintenance-system.git
+   git clone [https://github.com/yourusername/predictive-maintenance-system.git](https://github.com/Housseem946/Predictive-maintenance-Ml-RL.git)
    cd predictive-maintenance-system
    ```
 
