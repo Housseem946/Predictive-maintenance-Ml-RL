@@ -25,10 +25,9 @@ This repository contains the implementation of a predictive maintenance system f
 ## Project Structure
 ```
 ├── notebooks
-│   ├── preprocessing.ipynb        # Data preprocessing and feature engineering
-│   ├── model_training.ipynb       # Model training and evaluation
-│   ├── reinforcement_learning.ipynb  # Q-Learning implementation for maintenance scheduling
-├── tpot_best_pipeline.py          # Exported pipeline from TPOT AutoML
+│   ├── preprocessing.ipynb        # Data preprocessing and feature engineering + Model training and evaluation + Exported pipeline from TPOT AutoML + Q-Learning implementation for maintenance scheduling
+│ 
+├── tpot_best_pipeline.py          # 
 ├── data
 │   ├── train_FD001.txt            # Training dataset
 │   ├── test_FD001.txt             # Testing dataset
