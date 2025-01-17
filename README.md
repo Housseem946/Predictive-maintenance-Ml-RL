@@ -34,7 +34,7 @@ This repository contains the implementation of a predictive maintenance system f
 │   ├── test_FD001.txt             # Testing dataset
 │   ├── RUL_FD001.txt              # Remaining Useful Life (RUL) data
 ├── reports
-│   ├── final_report.pdf           # Comprehensive project report
+│   ├── Report_ML1_Project.pdf           # Comprehensive project report
 ├── README.md                      # Project documentation
 ```
 
